@@ -11,7 +11,7 @@
 #include <hardware/sensors.h>
 
 #define NO_PROTOBUF
-#include "genymotion.hpp"
+#include "global.hpp"
 
 typedef struct s_sensor_data {
     u_int64_t sensor;
